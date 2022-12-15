@@ -25,5 +25,5 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 ## Popis nastavnika i studenata
 1. Franjo Pehar (github korisničko ime: fpehar)
-2. Ime i prezime (github korisničko ime)
+2. Niko Miočić (github korisničko ime)
 3. ...
