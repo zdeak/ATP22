@@ -64,8 +64,10 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 4. 
 
 2. Šimun Čulina (sculina22)
-3. Željan Deak (zdeak)
+3. ...
 4. Luka Šarlija(luka-65)
+
+
 
 
 
@@ -93,5 +95,6 @@ Laura Kristić (github korisničko ime: LauraKristic)
 Lea Vojnović (github korisničko ime: LeaVojnovic)
 Andrija Viktor Karlović (andrijaviktor123)
 David Kafadar (Davidkafadar)
+Kresimir Kapetanovic(kkapetano)
 
 
