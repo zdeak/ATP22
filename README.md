@@ -25,6 +25,10 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 ## Popis nastavnika i studenata
 1. Franjo Pehar (github korisničko ime: fpehar)
+
+2. 
+3. 
+
 2. 
 
 2. Ime i prezime (github korisničko ime)
@@ -69,4 +73,4 @@ Niko Miočić (github korisničko ime)
 David Dunatov (theunatov)
 Teo Jaksic (tjaksic234)
 Dominik Grgurović(Dominik466)
-
+Dora Papić (github korisničko ime: DoraPapic1)
