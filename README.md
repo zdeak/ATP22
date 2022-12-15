@@ -22,3 +22,8 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
     Ovo je moja prva stranica.
     ```
 5. Spustite se na dno stranice i odaberite `Commit new file` (dodati novi branch i slobodno možete zadržati predloženi naslov brancha).
+
+## Popis nastavnika i studenata
+1. Franjo Pehar (github korisničko ime: fpehar)
+2. Ime i prezime (github korisničko ime)
+3. ...
