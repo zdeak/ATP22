@@ -24,9 +24,10 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 5. Spustite se na dno stranice i odaberite `Commit new file` (dodati novi branch i slobodno možete zadržati predloženi naslov brancha).
 
 ## Popis nastavnika i studenata
-Šimun Čulina (sculina22)
-Luka Šarlija(luka-65)
-Leon Rujak (LeonRujak12)
+1. Šimun Čulina (sculina22)
+2. Luka Šarlija(luka-65)
+3. Leon Rujak (LeonRujak12)
+4. Goran Ćoza (Gcoza2)
 Šimun Čulina (sculina22)
 Zvonimir Jukić (ZvonimirJ)
 Kristijan Segic (ksegic22)
@@ -42,4 +43,3 @@ Andrija Viktor Karlović (andrijaviktor123)
 David Kafadar (Davidkafadar)
 Kresimir Kapetanovic(kkapetano)
 Marija Miočić (MarijaMiocic)
-Goran Ćoza (Gcoza2)
