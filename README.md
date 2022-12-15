@@ -25,11 +25,17 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 ## Popis nastavnika i studenata
 1. Franjo Pehar (github korisničko ime: fpehar)
+
 2. Ime i prezime (github korisničko ime)
 3. 
 2. 
 3. ...
 4. 
+
+2. Šimun Čulina (sculina22)
+3. Željan Deak (zdeak)
+4. Luka Šarlija(luka-65)
+
 
 
 
@@ -37,4 +43,10 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 Luka Šarlija(luka-65)
 Leon Rujak (LeonRujak12)
 Šimun Čulina (sculina22)
+
+
+
+
+Zvonimir Jukić (ZvonimirJ)
+
 
