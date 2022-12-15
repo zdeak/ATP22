@@ -9,3 +9,6 @@ lang: en
 
 # Avoid GitHub API authentication when building locally.
 github: [metadata]
+
+# Add new template
+theme: jekyll-theme-minimal
