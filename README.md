@@ -28,3 +28,11 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 2. Šimun Čulina (sculina22)
 3. ...
 4. Luka Šarlija(luka-65)
+
+
+
+
+
+
+
+Zvonimir Jukić (ZvonimirJ)
