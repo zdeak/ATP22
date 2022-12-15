@@ -40,6 +40,9 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 3. 
 2. 
 3. ...
+
+4. 
+
 4. 
 
 2. Šimun Čulina (sculina22)
@@ -65,4 +68,5 @@ Kristijan Segic (ksegic22)
 Niko Miočić (github korisničko ime)
 David Dunatov (theunatov)
 Teo Jaksic (tjaksic234)
+Dominik Grgurović(Dominik466)
 
