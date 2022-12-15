@@ -39,6 +39,9 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 2. Ime i prezime (github korisničko ime)
 
+3. 
+
+
 3.
 
 
@@ -88,3 +91,5 @@ Dora Papić (github korisničko ime: DoraPapic1)
 Matijan Cvitanović (Mathyan)
 Laura Kristić (github korisničko ime: LauraKristic)
 Lea Vojnović (github korisničko ime: LeaVojnovic)
+Andrija Viktor Karlović (andrijaviktor123)
+
