@@ -1,6 +1,7 @@
 ---
 title: Naslovnica
 ---
+[O nama](./onama.html)
 
 # Plain Vanilla GitHub Pages
 
