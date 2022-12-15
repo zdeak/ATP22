@@ -27,6 +27,9 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 1. Franjo Pehar (github korisničko ime: fpehar)
 
 2. 
+
+
+2. 
 3. 
 
 2. 
@@ -43,6 +46,7 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 3. 
 2. 
+
 3. ...
 
    
@@ -78,4 +82,5 @@ Teo Jaksic (tjaksic234)
 Dominik Grgurović(Dominik466)
 Dora Papić (github korisničko ime: DoraPapic1)
 Matijan Cvitanović (Mathyan)
+Laura Kristić (github korisničko ime: LauraKristic)
 
