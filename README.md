@@ -30,6 +30,9 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 
 2. 
+
+
+2. 
 3. 
 
 2. 
@@ -46,6 +49,7 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 3. 
 2. 
+
 
 3. ...
 
@@ -83,4 +87,4 @@ Dominik Grgurović(Dominik466)
 Dora Papić (github korisničko ime: DoraPapic1)
 Matijan Cvitanović (Mathyan)
 Laura Kristić (github korisničko ime: LauraKristic)
-
+Lea Vojnović (github korisničko ime: LeaVojnovic)
