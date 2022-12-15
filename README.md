@@ -27,6 +27,9 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 1. Franjo Pehar (github korisničko ime: fpehar)
 
 2. Ime i prezime (github korisničko ime)
+
+3. 
+
 3. 
 2. 
 3. ...
@@ -49,4 +52,7 @@ Leon Rujak (LeonRujak12)
 
 Zvonimir Jukić (ZvonimirJ)
 
+
+
+Kristijan Segic (ksegic22)
 
