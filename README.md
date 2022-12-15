@@ -2,8 +2,8 @@
 Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com/) za izradu jednostavnih stranica i dokumentacije.
 
 ## Upište svoje korisničko ime u README.md
-1. Otvorite README.md
-2. Dodajte svoje ime u sekciju koja se nalazi na dnu stranice: Popis studenata
+1. Unesite izmjenu u README.md dokument
+2. Dodajte svoje ime u sekciju koja se nalazi na dnu stranice: Popis studenata (Ime i prezime - github korisnički račun kojeg ću kasnije obrisati).
 3. Spustite se na dno stranice i odaberite `Commit new file` (dodati novi branch i slobodno možete zadržati predloženi naslov brancha).
 
 ## Izradite prvu stranicu
