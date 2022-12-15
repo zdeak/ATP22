@@ -26,7 +26,7 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 ## Popis nastavnika i studenata
 1. Šimun Čulina (sculina22)
 2. Luka Šarlija(luka-65)
-Leon Rujak (LeonRujak12)
+3. Leon Rujak (LeonRujak12)
 Šimun Čulina (sculina22)
 Zvonimir Jukić (ZvonimirJ)
 Kristijan Segic (ksegic22)
