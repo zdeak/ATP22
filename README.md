@@ -31,6 +31,9 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 
 3. 
 
+
+3. 
+
 3. 
 2. 
 3. ...
@@ -57,3 +60,5 @@ Zvonimir Jukić (ZvonimirJ)
 
 Kristijan Segic (ksegic22)
 Niko Miočić (github korisničko ime)
+David Dunatov (theunatov)
+
