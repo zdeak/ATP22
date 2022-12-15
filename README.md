@@ -27,6 +27,7 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 1. Šimun Čulina (sculina22)
 2. Luka Šarlija(luka-65)
 3. Leon Rujak (LeonRujak12)
+4. Goran Ćoza (Gcoza2)
 Šimun Čulina (sculina22)
 Zvonimir Jukić (ZvonimirJ)
 Kristijan Segic (ksegic22)
