@@ -1,21 +1,20 @@
 ---
-title: Home
+title: Naslovnica
 ---
 
 # Plain Vanilla GitHub Pages
 
-The purpose of this project is to make it as easy as possible for low-tech people like me to create and host basic web pages for free on [GitHub Pages](https://pages.github.com/).
+Svrha ovog projekta je izraditi jednostavne stranice uz pomoć [GitHub Pages](https://pages.github.com/).
 
-## How it works
+## Kako funkcionira
 
-After creating your own copy of this template repository, add new pages as you need them using the Markdown (.md) format. See the [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) reference for examples of how to add different elements to your pages.
+Nakon što smo izradili site na temelju postojeće kopije s jednog repozitorija, nove stranice možete dodati koristeći Markdown (.md) format. Više informacija možete pronaći na [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-If you want to go beyond Markdown and add more interactive elements (like button links for navigation components), you can copy and paste code snippets from [GitHub Primer components](https://primer.style/css/components) to your pages.
+Ako vam je potrebno više od jednostavnih funkcionalnosti koje nudi Markdown, interaktivne elemente, poput botuna i sl., možete kopirate sa [GitHub Primer components](https://primer.style/css/components) na vlastitu stranicu.
 
 <div class="my-6 text-center">
-<a href="https://github.com/lowcodelounge/plain-vanilla-gh-pages" class="btn-mktg btn-large-mktg">Get the template on GitHub</a>
+<a href="https://github.com/lowcodelounge/plain-vanilla-gh-pages" class="btn-mktg btn-large-mktg">Preuzmite predložak na GitHub</a>
   <br>
-<a href="https://youtu.be/jlkHEmgQhGU" class="btn-mktg btn-outline-mktg mt-3">Watch the tutorial on YouTube</a>
 </div>
 
-![Screenshot of "create a new repository" action](assets/img/create-repo.jpg)
+![Screenshot novog repozitorija](assets/img/github_repo.png)
