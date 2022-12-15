@@ -45,6 +45,9 @@ Svrha ovog zadatka je naučiti koristiti [GitHub Pages](https://pages.github.com
 2. 
 3. ...
 
+   
+
+
 4. 
 
 4. 
@@ -74,3 +77,5 @@ David Dunatov (theunatov)
 Teo Jaksic (tjaksic234)
 Dominik Grgurović(Dominik466)
 Dora Papić (github korisničko ime: DoraPapic1)
+Matijan Cvitanović (Mathyan)
+
