@@ -92,4 +92,6 @@ Matijan Cvitanović (Mathyan)
 Laura Kristić (github korisničko ime: LauraKristic)
 Lea Vojnović (github korisničko ime: LeaVojnovic)
 Andrija Viktor Karlović (andrijaviktor123)
+David Kafadar (Davidkafadar)
+
 
